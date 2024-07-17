@@ -34,16 +34,6 @@ Remove nodes from the tree and observe the changes in the tree structure.
 ### Step 5: Tree Traversal
 Perform and print in-order, pre-order, and post-order traversals of the tree.
 
-## Screenshots
-
-*Ref 1: Initial Tree Structure*
-![Initial Tree Structure](path/to/screenshot1.png)
-
-*Ref 2: Tree After Insertions*
-![Tree After Insertions](path/to/screenshot2.png)
-
-*Ref 3: Tree After Deletion*
-![Tree After Deletion](path/to/screenshot3.png)
 
 ## How to Run
 
